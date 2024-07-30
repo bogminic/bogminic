@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Bogdan!
 
-### Hi 👋, I'm Michael!
-
 - 🔧 Mainly working on JavaScript and Java projects in the cloud.
 - 🚀 Building a CSS game to help developers learn basic CSS properties. [Check it out!](https://webtoknow.github.io/CSS-Press/)
 - 🦉 Passionate about sharing knowledge and education, and dedicated to helping students boost their understanding as quickly as possible.
