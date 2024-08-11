@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Bogdan, an engineer with multiple industries experience and a passion for building secure, user-friendly applications. 
 <br/>
 Currently, I am:
+
 - 🔧 Focusing on JavaScript and Java projects in the cloud.
 - 🚀 Building a CSS game to help developers learn basic CSS properties. [Check it out!](https://webtoknow.github.io/CSS-Press/)
 - 🦉 Passionate about sharing knowledge and education, and dedicated to helping students boost their understanding as quickly as possible. Consider checking out a Master's in [Financial Computing](https://financial-computing.upb.ro/) if you're interested in a graduate program within the fintech industry.
