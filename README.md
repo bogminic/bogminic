@@ -5,7 +5,7 @@ Currently, I am:
 - 🔧 Focusing on JavaScript and Java projects in the cloud.
 - 🚀 Building a CSS game to help developers learn basic CSS properties. [Check it out!](https://webtoknow.github.io/CSS-Press/)
 - 🦉 Passionate about sharing knowledge and education, and dedicated to helping students boost their understanding as quickly as possible. Consider checking out a Master's in [Financial Computing](https://financial-computing.upb.ro/) if you're interested in a graduate program within the fintech industry.
-- 🛡 Contributing to [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) to improve security awareness through hands-on challenges and open-source collaboration.  
+- 🛡 Creating hacking events and presentations, and contributing to [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) to improve security awareness.
 
 #### 🛠 Tool belt
 
